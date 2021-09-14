@@ -1,0 +1,10 @@
+C:\Users\Imran m\source\repos\DataCrud\DataCrud\bin\Debug\DataCrud.exe.config
+C:\Users\Imran m\source\repos\DataCrud\DataCrud\bin\Debug\DataCrud.exe
+C:\Users\Imran m\source\repos\DataCrud\DataCrud\bin\Debug\DataCrud.pdb
+C:\Users\Imran m\source\repos\DataCrud\DataCrud\obj\Debug\DataCrud.csproj.AssemblyReference.cache
+C:\Users\Imran m\source\repos\DataCrud\DataCrud\obj\Debug\DataCrud.Form1.resources
+C:\Users\Imran m\source\repos\DataCrud\DataCrud\obj\Debug\DataCrud.Properties.Resources.resources
+C:\Users\Imran m\source\repos\DataCrud\DataCrud\obj\Debug\DataCrud.csproj.GenerateResource.cache
+C:\Users\Imran m\source\repos\DataCrud\DataCrud\obj\Debug\DataCrud.csproj.CoreCompileInputs.cache
+C:\Users\Imran m\source\repos\DataCrud\DataCrud\obj\Debug\DataCrud.exe
+C:\Users\Imran m\source\repos\DataCrud\DataCrud\obj\Debug\DataCrud.pdb
